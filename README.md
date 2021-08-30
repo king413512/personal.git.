@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title> bajrangpatil Portfolio Website </title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Fontawesome CDN Link -->
     <link rel="stylesheet"
      href="css/style.css">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,7 +64,7 @@
     <div class="title"><span>About Me</span></div>
   <div class="about-details">
     <div class="left">
-      <img src="Images/about.jpg" hight="500px" width="400px" alt="">
+      <img src="Images/about.jpg" alt="">
     </div>
     <div class="right">
       <div class="topic">Designing Is My Passion</div>
@@ -171,12 +173,13 @@ I like to travel and Web designing. I believe in coding that  gives you a new pe
     </div>
   </div>
 </section>
+
+<!-- Footer Section Start -->
 <footer>
   <div class="text">
     <span>Created By <a href="#">Bajrangpatil Lit.</a> | &#169; 2021 All Rights Reserved</span>
   </div>
 </footer>
-  <script src="java/script.js"></script>
+ <script src="java/script.js"></script>
 </body>
 </html>
-
