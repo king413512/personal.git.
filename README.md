@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<!-- Designined by bajrang patil | www.youtube.com/codinglabyt -->
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
     <title> bajrangpatil Portfolio Website </title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="">
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet"
      href="css/style.css">
