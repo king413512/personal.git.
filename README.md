@@ -65,7 +65,7 @@
     <div class="title"><span>About Me</span></div>
   <div class="about-details">
     <div class="left">
-      <img src="Images/about.jpg" alt="">
+      <img src="Images/about.jpg" hight="500px" width="400px" alt="">
     </div>
     <div class="right">
       <div class="topic">Designing Is My Passion</div>
